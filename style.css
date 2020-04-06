@@ -1,0 +1,52 @@
+.profile{
+    background-color: #e9ebee;;
+}
+
+.profile-navbar{
+    background-color: #4267b2;
+    display: flex;
+    box-sizing: border-box;
+    color:#fff;
+}
+
+.profile-menu{
+    background-color: #4267b2;
+}
+
+.leftmenu span{
+    border-right: 2px solid rgba(0,0,0,0.2) 
+}
+
+.drop-down-menu{
+    color:black
+}
+
+.my-wall{
+    background: url(image/1577821779_55ef7a4474c9800574c59d5a4638b85a.jpeg) center center no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 40vh;
+    display: flex;
+    align-items:flex-end;
+}
+
+div.infor-about-me{
+    background-color: white;
+}
+
+ul{
+  padding-left: 1em;
+}
+
+.footer{
+  background-color: #4267b2;
+  color:white
+}
+
+a#link-footer{
+    color:#ffa500
+}
+
+a#link-footer:hover{
+    color:yellow
+}
